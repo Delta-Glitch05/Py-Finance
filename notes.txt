@@ -1,0 +1,18 @@
+Volumes = how many shares of that company were traded (it may be in hundreds of thousands or millions whereas the price is probably less than a thousand).
+
+After the 5-for-1 TSLA stock split on 31 August 2020:
+High, Low, Open and Close numbers have been / by 5 (existing total quantity of shares multiplied by 5, so the share price of $2230 decreased to $446),
+Volume * by 2.
+
+100ma = 100 moving average: it takes today's price (one price) and 99 of the prior days prices and creates an average of those.
+
+An OHLC chart, called a candlestick chart, is a chart that condenses the open, high, low, and close data all in one nice format.
+
+A stock market index is an index that measures a stock market, or a subset of the stock market, that helps investors compare current price levels with pasts prices to calculate market performance. It's computed from the prices of selected stocks.
+
+The Standard and Poor's 500 (S&P 500) is a stock market index tracking the performance of 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices.
+
+A futures contract (sometimes called futures) is a standardized legal agreement to buy or sell something at a predetermined price at a specified time in the future, between parties not known to each other. 
+The asset transacted is usually a commodity or financial instrument. The predetermined price the parties agree to buy and sell the asset for is known as the forward price. 
+The specified time in the future—which is when delivery and payment occur—is known as the delivery date. Because it is a function of an underlying asset, a futures contract is a derivative product.
+
